@@ -7,6 +7,10 @@ The project can be build using `sbt` (https://www.scala-sbt.org/)
 
 Alternatively one can execute the `external/init.sh` script and any scala compiler compatible with scala 3 (https://docs.scala-lang.org/scala3/getting-started.html)
 
+# Version
+
+The project is in a WIP state. Most of the functionality is not jet implemented.
+
 # Structure and Overview
 
 ## Model
