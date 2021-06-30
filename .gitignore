@@ -1,0 +1,8 @@
+target/
+.bsp/
+.bloop/
+.metals/
+.vscode/
+
+
+external/C/*.o
